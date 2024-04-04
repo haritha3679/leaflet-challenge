@@ -5,7 +5,7 @@
 ### Part 1: Create the Earthquake Visualization
   - Get the dataset from USGS which provides the data about earthquakes in different formats and understand the data to provide the visualization requested.
   - use d3.js , geojson and chroma.js (refernece ((https://www.npmjs.com/package/chroma-js)
-
+  -app : https://haritha3679.github.io/leaflet-challenge/
 ### Part 2: illustrate the relationship between tectonic plates and seismic activity(Optional)
   - Details
 ## Group
