@@ -9,4 +9,4 @@
 ### Part 2: illustrate the relationship between tectonic plates and seismic activity(Optional)
   - Details
 ## Group
-We work in a group environment with the help of our TA Sheri Rosalia The group consisted of Kat,Michelle, Haritha
+We work in a group environment with the help of our TA Sheri Rosalia The group consisted of Kat,Michelle,Carmen
